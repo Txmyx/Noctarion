@@ -16,16 +16,9 @@
 	--customFont: 'Josefin Sans', sans-serif;
 	--homeImage: url('https://i.imgur.com/oOKwCVJ.png');
 	--backgroundColor: #0d0d0d;
-	--backgroundImage: url('https://image.freepik.com/vektoren-kostenlos/blaue-schaltung-cyber-zukunft-technologie-konzept-hintergrund_42077-620.jpg');
-	--backgroundBlur: 10px;
+	--backgroundImage: url('https://i.ibb.co/bH15gnf/background-v1.png');
+	--backgroundBlur: 0px;
 	--backgroundOpacity: 0.45;
-
-	--homeImageSize:cover;
-	--backgroundPosition:center;
-	--backgroundSize:cover;
-	--backgroundRepeat:no-repeat;
-	--backgroundCode:rgba(0,0,0,.5);
-	--backgroundName:rgba(0,0,0,.5)
 
 	--rs-small-spacing: 0px;
 	--rs-large-spacing: 1px;
