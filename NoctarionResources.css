@@ -32,6 +32,10 @@
 	--rs-invisible-color: #000000;
 }
 
+.username-1A8OIy.clickable-1bVtEA:hover{
+	background:var(-themeColor1);
+}
+
 ::-webkit-scrollbar{
 	border:none !important;
 	width:7px !important
