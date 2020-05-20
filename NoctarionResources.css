@@ -444,8 +444,10 @@
 .attachment-33OFj0::after,.embedFull-2tM8--::after,.wrapper-35wsBm::after{
 	content:"";
 	position:absolute;
-	width:150%;
-	height:150%;
+	max-width:110%;
+	max-height:110%;
+	width: auto;
+	height: auto;
 	left:-5%;
 	top:-5%;
 	background-image:var(--backgroundImage);
