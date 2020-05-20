@@ -11,8 +11,8 @@
 @import url('https://codedotspectra.github.io/themes/core/custom-font.css');
 @import url("https://codedotspectra.github.io/themes/core/hljs.css");
 :root {
-	--themeColor1: rgba(33,241,216,0.5);
-	--themeColor2: rgba(116,60,221,0.5);
+	--themeColor1: rgba(255, 0, 0 ,0.5);
+	--themeColor2: rgba(28, 0, 0 ,0.5);
 	--customFont: 'Josefin Sans', sans-serif;
 	--homeImage: url('https://i.imgur.com/oOKwCVJ.png');
 	--backgroundColor: #0d0d0d;
