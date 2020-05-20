@@ -2,30 +2,4 @@
 @import url('https://txmyx.github.io/Noctarion/resources.css');
 :root {
 	/*customize your Theme here*/
-	--themeColor1: rgba(33,241,216,0.5);
-	--themeColor2: rgba(116,60,221,0.5);
-	--customFont: 'Josefin Sans', sans-serif;
-	--homeImage: url('https://i.imgur.com/oOKwCVJ.png');
-	--backgroundColor: #0d0d0d;
-	--backgroundImage: url('https://image.freepik.com/vektoren-kostenlos/blaue-schaltung-cyber-zukunft-technologie-konzept-hintergrund_42077-620.jpg');
-	--backgroundBlur: 10px;
-	--backgroundOpacity: 0.45;
-
-	--homeImageSize:cover;
-	--backgroundPosition:center;
-	--backgroundSize:cover;
-	--backgroundRepeat:no-repeat;
-	--backgroundCode:rgba(0,0,0,.5);
-	--backgroundName:rgba(0,0,0,.5)
-
-	--rs-small-spacing: 0px;
-	--rs-large-spacing: 1px;
-	--rs-width: 2px;
-	--rs-avatar-shape: 28%;
-	--rs-online-color: #14e4b6;
-	--rs-idle-color: #ef25cc;
-	--rs-dnd-color: #9b1c52;
-	--rs-streaming-color: #643da7;
-	--rs-offline-color: #636b75;
-	--rs-invisible-color: #000000;
 }
