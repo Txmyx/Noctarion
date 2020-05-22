@@ -1,2 +1,14 @@
-//META{"name":"Noctarion","description":"Noctarion Design for Discord","author":"Txmyx","version":"Auto-Update"}*//
-@import url("https://txmyx.github.io/Noctarion/NoctarionResources.css");
+/**
+ * @name Noctarion
+ * @author Toooom#1190
+ * @version 1.0.0
+ * @description Red Techno Theme for Discord
+ * @invite https://discord.gg/hMVtMZ7
+ * @authorId 411165035184914432
+*/
+
+@import url("https://txmyx.github.io/Noctarion/src/resource.css");
+
+:root {
+--background-image: url('https://txmyx.github.io/Noctarion/assets/background_v2.png');
+}
