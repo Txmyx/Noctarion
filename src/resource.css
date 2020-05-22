@@ -6,5 +6,26 @@
 @import url('https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css');
 
 :root{
-
+  --background-image: url('https://txmyx.github.io/Noctarion/assets/gif_v1.gif');
+  --background-image-blur: 0px;
+  --popout-modal-image: url('https://i.ibb.co/JdSgSZ9/background-v2.png');
+  --popout-modal-blur: 5px;
+  --home-button-image: url('https://i.ibb.co/2sQHcPY/logo.png');
+  --serverlist-brightness: 0.98;
+  --left-brightness: 0.72;
+  --middle-brightness: 0.26;
+  --right-brightness: 0.62;
+  --popout-modal-brightness: 0.38;
+  --gradient-primary: 157,7,7;
+  --gradient-secondary: 0,0,0;
+  --gradient-direction: 73deg;
+  --tint-colour: 255,51,159;
+  --tint-brightness: 0;
+  --window-padding: 5px;
+  --window-roundness: 15px;
+  --scrollbar-colour: rgba(96,3,4,1);
+  --link-colour: #00b0f4;
+  --show-gift-gif-buttons: block;
+  --font: 'Josefin Sans';
+  --update-notice-1: none;
 }
