@@ -24,3 +24,9 @@
   --font: 'Josefin Sans';
   --update-notice-1: none;
 }
+#app-mount {
+  background: var(--background-image);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
